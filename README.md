@@ -1,4 +1,4 @@
-# parallel-programming-lab
+# parallel-programming-lab2
 **Номер:** 7  
 **Автор:** Гаврилина Алёна Дмитриевна
 
